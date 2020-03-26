@@ -1,6 +1,9 @@
 # CodeVsCovid19
 Hackathon Hack Zurich have announced an Online Covid-19 Hackathon. → https://www.codevscovid19.org/
 
+# Project Wiki -> https://github.com/dumians/CodeVsCovid19/wiki
+# Project Kanban Board ->  https://github.com/dumians/CodeVsCovid19/projects/1
+
 # Target
 - You need to upload a video of your pitch and demo (maximum 2 minutes) and link it to your devpost project (see here). 
 - We are mainly looking for technical prototypes, however other ideas and results are welcome as well. 
@@ -10,7 +13,8 @@ Hackathon Hack Zurich have announced an Online Covid-19 Hackathon. → https://w
 - There will be a public voting in the end to assess the most exciting projects. 
 
 # Communication
-
+ using #CodeVsCovid19 Slack Workspace and their channels 
+ 
 # Tools
 
 # Team & Skills
